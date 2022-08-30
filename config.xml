@@ -8,6 +8,7 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <preference name="BackgroundColor" value="0xff87a2a1"/>
     <platform name="android">
         <preference name="orientation" value="portrait" />
     </platform>
