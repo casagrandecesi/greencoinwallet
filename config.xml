@@ -2,7 +2,7 @@
 <widget id="it.edu.casagrandecesi.greencoinwallet" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Greencoin Wallet</name>
     <description>Wallet dimostrativo per l'ecovaluta Greencoin</description>
-    <author email="paolo.bernardi@¢asagrandecesi.edu.it" href="https://www.casagrandecesi.edu.it">
+    <author email="paolo.bernardi@casagrandecesi.edu.it" href="https://www.casagrandecesi.edu.it">
         I.I.S. "Casagrande-Cesi", Terni
     </author>
     <content src="index.html" />
